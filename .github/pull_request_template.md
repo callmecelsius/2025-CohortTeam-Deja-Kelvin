@@ -2,12 +2,12 @@
 What does this PR change? (Link to Jira ticket if applicable)
 
 ## How to Test
-**Scenario:** Submitting a form successfully
+Scenario: Submitting a form successfully
 1. Fill in the "Name" field with "John Doe".
 2. Fill in the "Email" field with "[john@example.com](mailto:john@example.com)".
 3. Click the "Submit" button.
-- ***Verify*** that a success message appears.
-- ***Verify*** that the form fields are cleared.`test@user.com`
+- *Verify* that a success message appears.
+- *Verify* that the form fields are cleared.`test@user.com`
 
 ## Checklist
 - [ ] My code follows the project's style guidelines
