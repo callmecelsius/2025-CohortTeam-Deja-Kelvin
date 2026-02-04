@@ -1,0 +1,19 @@
+# Ignore build & IDE outputs
+dist
+build
+bin
+obj
+.vs/
+.vscode/
+
+# Ignore dependencies
+node_modules/
+**/node_modules/
+
+# Ignore system & config
+.DS_Store
+*.log
+.env*
+appsettings*.json
+*.sln
+*.csproj
