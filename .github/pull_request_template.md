@@ -12,5 +12,6 @@ Scenario: Submitting a form successfully
 ## Checklist
 - [ ] My code follows the project's style guidelines
 - [ ] I have performed a self-review of my own code
+- [ ] I have not introduced any breaking changes (my code builds successfully)
 - [ ] I have commented my code
 - [ ] I have notified the team of an incoming PR
